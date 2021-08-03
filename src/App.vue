@@ -16,7 +16,7 @@
             <v-list-item-title class="text-h6">
               John Leider
             </v-list-item-title>
-            <v-list-item-subtitle>john@vuetifyjs.com</v-list-item-subtitle>
+            <v-list-item-subtitle>john@vuetifyjs.com.jp</v-list-item-subtitle>
           </v-list-item-content>
 
           <v-list-item-action>
